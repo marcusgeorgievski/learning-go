@@ -17,13 +17,13 @@ _An Idiomatic Approach to Real-World Go Programming_
 
 ❗️ Complete notes and coding excercises
 
-1. [Environment and Tooling](https://github.com/marcusgeorgievski/learning-go/chapters/chapter-1)
-2. [Predeclared Types and Declarations](https://github.com/marcusgeorgievski/learning-go/chapters/chapter-2)
-3. [Composite Types](https://github.com/marcusgeorgievski/learning-go/chapters/chapter-3)
-4. [Blocks, Shadows, and Control Structures](https://github.com/marcusgeorgievski/learning-go/chapters/chapter-4)
-5. [Functions](https://github.com/marcusgeorgievski/learning-go/chapters/chapter-5)
-6. [Pointers](https://github.com/marcusgeorgievski/learning-go/chapters/chapter-6)
-7. [Types, Methods, and Interfaces](https://github.com/marcusgeorgievski/learning-go/chapters/chapter-7)
+1. [Environment and Tooling](https://github.com/marcusgeorgievski/learning-go/tree/main/chapters/chapter-1)
+2. [Predeclared Types and Declarations](https://github.com/marcusgeorgievski/learning-go/tree/main/chapters/chapter-2)
+3. [Composite Types](https://github.com/marcusgeorgievski/learning-go/tree/main/chapters/chapter-3)
+4. [Blocks, Shadows, and Control Structures](https://github.com/marcusgeorgievski/learning-go/tree/main/chapters/chapter-4)
+5. [Functions](https://github.com/marcusgeorgievski/learning-go/tree/main/chapters/chapter-5)
+6. [Pointers](https://github.com/marcusgeorgievski/learning-go/tree/main/chapters/chapter-6)
+7. [Types, Methods, and Interfaces](https://github.com/marcusgeorgievski/learning-go/tree/main/chapters/chapter-7)
 
 ## Addition Resources
 
